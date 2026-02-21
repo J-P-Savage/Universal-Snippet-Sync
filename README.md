@@ -15,9 +15,10 @@ Safety: Skips files that have a starting comment but are missing a closing comme
 ## How To Use
 
 Tag your code: Wrap the code you want to sync in start and end comments in both the snippet file and the target files you wish to update.
-<!-- nav start -->
+
+<-- nav start -->
 ... your code here ...
-<!-- nav end -->
+<-- nav end -->
 
 Right-Click: In the File Explorer, right-click the file that contains your "master" version of that code.
 
