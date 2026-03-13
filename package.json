@@ -1,8 +1,8 @@
 {
   "name": "universalsnippetsync",
   "displayName": "Universal Snippet Sync",
-  "description": "A utility to sync global UI elements across multiple HTML files. Replaces content between and comments with updated snippets",
-  "version": "1.0.2",
+  "description": "Sync code blocks across any file type using comment markers. Maintain a single source of truth for UI elements, variables, or headers within your workspace",
+  "version": "1.0.3",
   "icon": "icon.png",
   "author": "Joshua Savage",
   "publisher": "JoshuaSavage",

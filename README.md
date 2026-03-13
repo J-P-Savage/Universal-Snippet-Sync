@@ -1,6 +1,6 @@
 # UniversalSnippetSync
 
-Universal Snippet Sync is a productivity tool that allows you to maintain "single source" code blocks across your entire workspace. Whether it's a shared navigation bar in HTML, common variables in CSS, or a header comment in JavaScript, this extension ensures your changes are mirrored everywhere instantly.
+Universal Snippet Sync is a productivity tool designed to eliminate redundant manual updates. Whether it’s a shared navigation bar in HTML or standardized boilerplate imports in Python, this extension ensures your changes are mirrored across any text filetype at a click of a button.
 
 ## Features
 

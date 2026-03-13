@@ -1,5 +1,9 @@
 # Visual Studio Code Extension Changelog
 
+## [1.0.3] - 2026-02-25
+### Changed
+-Improved description & README
+
 ## [1.0.2] - 2026-02-21
 ### Added
 - Improved README formatting for better visibility in the VS Code Marketplace.
